@@ -1,4 +1,4 @@
-# sumtamsang
+# sumtamsang on web
 Sumtamsang system on web
 
 เป็นการสร้างเว็บระบบสุ่มเมนูอาหารออนไลน์
