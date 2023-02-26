@@ -1,2 +1,2 @@
 # sumtamsang
-Sumtamsang system
+Sumtamsang system on web
